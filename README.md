@@ -1,2 +1,2 @@
 ### Welcome! 
-- A Data Science undergraduate at Vilnius University;
+- I am a Data Science undergraduate at Vilnius University;
